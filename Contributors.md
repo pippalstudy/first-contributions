@@ -9,6 +9,7 @@
 - [CleveR.](https://github.com/rekocleve) - Happy to help with anything =)
 - [Jordan Salamone](https://github.com/JordanSalamone)
 - [Jishnu J](https://github.com/JishnuJayaraj)
+- [Oishik Biswas](https://github.com/pippalstudy)
 - [Srushti Haryan](https://github.com/SrushtiHaryan)
 - [Steven Gross] (https://github.com/grossatron)
 - [Utkarsh verma](https://github.com/utkggjdu2a)
